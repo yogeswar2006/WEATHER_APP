@@ -1,7 +1,7 @@
 # WEATHER_APP
 This is a Weather app created by using html ,css ,javascript with a free APIKEY from openweathermap.org .
 
-The demo will look like:
+**The demo will look like:**  
 ![Alt text](demo_image.png)
 
 # Steps to follow :
